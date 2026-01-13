@@ -21,5 +21,10 @@
 **/obj
 **/secrets.dev.yaml
 **/values.dev.yaml
+node_modules
+frontend/node_modules
+.git
+uploads
+listmonk (the binary)
 LICENSE
 README.md
